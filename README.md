@@ -16,7 +16,7 @@
 
  💬 Ask me about **tailwind, React, Ruby on rails.....**
 
- ⚡ Fun fact **Pirates of the Caribbean's parrots were common pirate parrots **
+ ⚡ Fun fact **Pirates of the Caribbean's parrots were common pirate parrots!**
  
  </div>
  
