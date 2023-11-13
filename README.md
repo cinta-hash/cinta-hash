@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **SQL, Bootstrap, Technical writing**
 
- 💬 Ask me about **tailwind, React, Ruby on rails.....
+ 💬 Ask me about **tailwind, React, Ruby on rails.....**
 
  ⚡ Fun fact **Pirates of the Caribbean's parrots were common pirate parrots **
  
