@@ -40,10 +40,6 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=tailwind,javascript,react,ruby on rails" /><br>
 </div>
-
-<br/>
-<hr/>
-
 <div align="center">
   <br/><br/><br/>
 </div>
