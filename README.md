@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a shop stock management app**
+ 🔭 I’m currently working on **a shop inventory management app**
  
  🌱 I’m currently learning **SQL, Bootstrap, Technical writing**
 
