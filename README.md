@@ -21,10 +21,10 @@
  </div>
  
 <div align="center"> 
-  <a href="jacintawmwangi21@gmail.com">
+  <a href="https://www.jacintawmwangi21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/%20jacinta-mwangi-8bb063192" target="_blank">
+  <a href="https://www.linkedin.com/in/%20jacinta-mwangi-8bb063192/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://jmwangi.netlify.app/" target="_blank">
