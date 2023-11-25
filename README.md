@@ -52,6 +52,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=cinta-hash&theme=bear&hide_border=true)](https://git.io/streak-stats" alt="githubStreak" />
 </div>
+[![cinta-hash's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinta-hash)](https://github.com/cint-hash/github-readme-stats)
 
 <br/><br/>
 
