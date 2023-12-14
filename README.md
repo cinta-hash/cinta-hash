@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,postman,linux,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=tailwind,javascript,react,ruby on rails,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,javascript,react,ruby on rails,postgresql, sql" /><br>
 </div>
 <div align="center">
   <br/><br/><br/>
